@@ -48,9 +48,9 @@ let c2 = true;
 console.log(a2,typeof a2);
 console.log(b3,typeof b3);
 console.log(c2,typeof c2);
-let N = prompt("First Name");
-let N2 = prompt("Last Name");
-let A = prompt("Your age");
-console.log(N,N2,A);
+let nnn = prompt("First Name");
+let nnn2 = prompt("Last Name");
+let aa = +prompt("Your age");
+console.log(nnn,nnn2,aa);
 
 

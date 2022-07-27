@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5fd3316-ff27-49fc-afa7-332af9d36a49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework1/HW1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework1/JShw1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 2/HM2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 2/HM2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework1/JShw1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework1/JShw1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Irinka\IdeaProjects\July2022-JavaScript\Homework1" />
@@ -56,6 +54,16 @@
       <option name="presentableId" value="Default" />
       <updated>1658574513197</updated>
       <workItem from="1658574514627" duration="5973000" />
+      <workItem from="1658658533323" duration="818000" />
+      <workItem from="1658902311147" duration="659000" />
+      <workItem from="1658902985751" duration="924000" />
+      <workItem from="1658903927372" duration="190000" />
+      <workItem from="1658904129470" duration="2166000" />
+      <workItem from="1658911548778" duration="297000" />
+      <workItem from="1658911957873" duration="733000" />
+      <workItem from="1658912809562" duration="57000" />
+      <workItem from="1658912935256" duration="255000" />
+      <workItem from="1658913288008" duration="680000" />
     </task>
     <servers />
   </component>
