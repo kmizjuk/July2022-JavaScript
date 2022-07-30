@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5fd3316-ff27-49fc-afa7-332af9d36a49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework 2/HM2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 2/HM2.js" afterDir="false" />
+    <list default="true" id="a5fd3316-ff27-49fc-afa7-332af9d36a49" name="Changes" comment="Added Homework 2.">
+      <change afterPath="$PROJECT_DIR$/Homework 3/HM 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 3/HM 3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework1/JShw1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework1/JShw1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +62,22 @@
       <workItem from="1658911957873" duration="733000" />
       <workItem from="1658912809562" duration="57000" />
       <workItem from="1658912935256" duration="255000" />
-      <workItem from="1658913288008" duration="680000" />
+      <workItem from="1658913288008" duration="906000" />
+      <workItem from="1658943106636" duration="756000" />
+      <workItem from="1659201567456" duration="1672000" />
+      <workItem from="1659203263162" duration="272000" />
+      <workItem from="1659203548684" duration="2281000" />
+      <workItem from="1659205858072" duration="623000" />
+      <workItem from="1659206497304" duration="857000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Homework 2.">
+      <created>1658914027072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658914027072</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Homework 2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Homework 2." />
   </component>
 </project>
