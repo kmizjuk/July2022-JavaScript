@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5fd3316-ff27-49fc-afa7-332af9d36a49" name="Changes" comment="Added Homework 3.">
-      <change afterPath="$PROJECT_DIR$/Homework 4/HM 4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 4/HW 4.js" afterDir="false" />
+    <list default="true" id="a5fd3316-ff27-49fc-afa7-332af9d36a49" name="Changes" comment="Added Homework 4.">
+      <change afterPath="$PROJECT_DIR$/Homework 5/HM5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 5/HM5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 4/HW 4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 4/HW 4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +37,14 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Irinka/IdeaProjects/July2022-JavaScript/Homework 5&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Irinka\IdeaProjects\July2022-JavaScript\Homework 5" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Irinka\IdeaProjects\July2022-JavaScript\Homework1" />
     </key>
@@ -73,7 +78,16 @@
       <workItem from="1659504870261" duration="21000" />
       <workItem from="1659504911134" duration="8000" />
       <workItem from="1659504940872" duration="1404000" />
-      <workItem from="1659506368567" duration="7053000" />
+      <workItem from="1659506368567" duration="7621000" />
+      <workItem from="1659605578755" duration="16000" />
+      <workItem from="1659784845972" duration="93000" />
+      <workItem from="1659784957144" duration="650000" />
+      <workItem from="1659786029702" duration="3594000" />
+      <workItem from="1659789662251" duration="39000" />
+      <workItem from="1659789711405" duration="905000" />
+      <workItem from="1659790634058" duration="219000" />
+      <workItem from="1659790865292" duration="1717000" />
+      <workItem from="1659792605741" duration="5690000" />
     </task>
     <task id="LOCAL-00001" summary="Added Homework 2.">
       <created>1658914027072</created>
@@ -89,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659207783512</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Homework 4.">
+      <created>1659521816895</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659521816895</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Homework 2." />
     <MESSAGE value="Added Homework 3." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Homework 3." />
+    <MESSAGE value="Added Homework 4." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Homework 4." />
   </component>
 </project>
